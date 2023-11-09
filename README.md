@@ -1,4 +1,4 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo) and React [(https://react.dev/)] with TypeScript [(https://www.typescriptlang.org/)].
+This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo) and [React](https://react.dev/) with [TypeScript](https://www.typescriptlang.org/).
 
 ## Getting Started
 
